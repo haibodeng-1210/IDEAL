@@ -1,0 +1,9 @@
+﻿target,feature,feature_label,mean_abs_shap,relative_importance_percent,unit
+FWHM,Molar Ratio,Molar ratio,5.170226,37.703132,nm
+FWHM,H2SO4 Volume,H2SO4 amount,3.716506,27.102085,nm
+FWHM,Temperature,Temperature,2.67032,19.472924,nm
+FWHM,Time,Time,2.155937,15.721859,nm
+PLQY,Molar Ratio,Molar ratio,2.277377,40.503785,percentage points
+PLQY,Temperature,Temperature,1.77018,31.483136,percentage points
+PLQY,H2SO4 Volume,H2SO4 amount,1.05229,18.715262,percentage points
+PLQY,Time,Time,0.522782,9.297817,percentage points

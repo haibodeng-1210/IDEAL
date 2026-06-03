@@ -1,0 +1,289 @@
+﻿Serial_Number,target,feature,feature_label,feature_value,shap_value,unit
+1,PLQY,Time,Time,10.0,0.551151,percentage points
+1,PLQY,Temperature,Temperature,150.0,1.185578,percentage points
+1,PLQY,Molar Ratio,Molar ratio,400.0,0.234223,percentage points
+1,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-1.449945,percentage points
+2,PLQY,Time,Time,10.0,0.034968,percentage points
+2,PLQY,Temperature,Temperature,150.0,1.259196,percentage points
+2,PLQY,Molar Ratio,Molar ratio,400.0,0.806317,percentage points
+2,PLQY,H2SO4 Volume,H2SO4 amount,4.0,0.335868,percentage points
+3,PLQY,Time,Time,10.0,0.420307,percentage points
+3,PLQY,Temperature,Temperature,150.0,-0.07549,percentage points
+3,PLQY,Molar Ratio,Molar ratio,600.0,-4.996106,percentage points
+3,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-0.670942,percentage points
+4,PLQY,Time,Time,10.0,-0.308008,percentage points
+4,PLQY,Temperature,Temperature,150.0,-0.090855,percentage points
+4,PLQY,Molar Ratio,Molar ratio,600.0,-6.317736,percentage points
+4,PLQY,H2SO4 Volume,H2SO4 amount,4.0,-0.778853,percentage points
+5,PLQY,Time,Time,10.0,0.286294,percentage points
+5,PLQY,Temperature,Temperature,170.0,-4.944838,percentage points
+5,PLQY,Molar Ratio,Molar ratio,400.0,-1.497842,percentage points
+5,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-1.649786,percentage points
+6,PLQY,Time,Time,10.0,0.058152,percentage points
+6,PLQY,Temperature,Temperature,170.0,-4.794005,percentage points
+6,PLQY,Molar Ratio,Molar ratio,400.0,-0.932141,percentage points
+6,PLQY,H2SO4 Volume,H2SO4 amount,4.0,0.213242,percentage points
+7,PLQY,Time,Time,10.0,0.134,percentage points
+7,PLQY,Temperature,Temperature,170.0,-1.865556,percentage points
+7,PLQY,Molar Ratio,Molar ratio,600.0,-2.387821,percentage points
+7,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-0.735215,percentage points
+8,PLQY,Time,Time,10.0,-0.151651,percentage points
+8,PLQY,Temperature,Temperature,170.0,-1.703572,percentage points
+8,PLQY,Molar Ratio,Molar ratio,600.0,-3.615711,percentage points
+8,PLQY,H2SO4 Volume,H2SO4 amount,4.0,-0.665777,percentage points
+9,PLQY,Time,Time,12.0,-1.802755,percentage points
+9,PLQY,Temperature,Temperature,150.0,0.903513,percentage points
+9,PLQY,Molar Ratio,Molar ratio,400.0,0.006732,percentage points
+9,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-2.271522,percentage points
+10,PLQY,Time,Time,12.0,-0.536195,percentage points
+10,PLQY,Temperature,Temperature,150.0,1.323031,percentage points
+10,PLQY,Molar Ratio,Molar ratio,400.0,0.649898,percentage points
+10,PLQY,H2SO4 Volume,H2SO4 amount,4.0,1.297034,percentage points
+11,PLQY,Time,Time,12.0,-1.425963,percentage points
+11,PLQY,Temperature,Temperature,150.0,-0.378102,percentage points
+11,PLQY,Molar Ratio,Molar ratio,600.0,-4.715961,percentage points
+11,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-1.820485,percentage points
+12,PLQY,Time,Time,12.0,0.196957,percentage points
+12,PLQY,Temperature,Temperature,150.0,0.086458,percentage points
+12,PLQY,Molar Ratio,Molar ratio,600.0,-5.398027,percentage points
+12,PLQY,H2SO4 Volume,H2SO4 amount,4.0,0.42284,percentage points
+13,PLQY,Time,Time,12.0,-1.24145,percentage points
+13,PLQY,Temperature,Temperature,170.0,-4.40074,percentage points
+13,PLQY,Molar Ratio,Molar ratio,400.0,-1.571678,percentage points
+13,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-2.072863,percentage points
+14,PLQY,Time,Time,12.0,-0.648457,percentage points
+14,PLQY,Temperature,Temperature,170.0,-4.865616,percentage points
+14,PLQY,Molar Ratio,Molar ratio,400.0,-0.953637,percentage points
+14,PLQY,H2SO4 Volume,H2SO4 amount,4.0,0.611299,percentage points
+15,PLQY,Time,Time,12.0,-0.754395,percentage points
+15,PLQY,Temperature,Temperature,170.0,-1.210292,percentage points
+15,PLQY,Molar Ratio,Molar ratio,600.0,-1.822309,percentage points
+15,PLQY,H2SO4 Volume,H2SO4 amount,3.0,-1.210056,percentage points
+16,PLQY,Time,Time,12.0,-0.10116,percentage points
+16,PLQY,Temperature,Temperature,170.0,-1.980733,percentage points
+16,PLQY,Molar Ratio,Molar ratio,600.0,-2.880106,percentage points
+16,PLQY,H2SO4 Volume,H2SO4 amount,4.0,-0.201732,percentage points
+17,PLQY,Time,Time,10.91,0.325442,percentage points
+17,PLQY,Temperature,Temperature,152.3,1.099274,percentage points
+17,PLQY,Molar Ratio,Molar ratio,396.1,2.048505,percentage points
+17,PLQY,H2SO4 Volume,H2SO4 amount,3.75,-0.351133,percentage points
+18,PLQY,Time,Time,9.02,-0.778821,percentage points
+18,PLQY,Temperature,Temperature,150.3,0.258252,percentage points
+18,PLQY,Molar Ratio,Molar ratio,359.9,2.678442,percentage points
+18,PLQY,H2SO4 Volume,H2SO4 amount,3.92,-0.598085,percentage points
+19,PLQY,Time,Time,8.4,-0.075781,percentage points
+19,PLQY,Temperature,Temperature,199.5,-4.065139,percentage points
+19,PLQY,Molar Ratio,Molar ratio,250.2,2.335745,percentage points
+19,PLQY,H2SO4 Volume,H2SO4 amount,1.69,-0.333337,percentage points
+20,PLQY,Time,Time,9.15,0.201296,percentage points
+20,PLQY,Temperature,Temperature,196.4,-1.488298,percentage points
+20,PLQY,Molar Ratio,Molar ratio,749.3,-2.043203,percentage points
+20,PLQY,H2SO4 Volume,H2SO4 amount,2.53,-0.211187,percentage points
+21,PLQY,Time,Time,10.68,0.484009,percentage points
+21,PLQY,Temperature,Temperature,153.9,1.900994,percentage points
+21,PLQY,Molar Ratio,Molar ratio,350.2,3.524816,percentage points
+21,PLQY,H2SO4 Volume,H2SO4 amount,3.97,0.063649,percentage points
+22,PLQY,Time,Time,10.41,0.408991,percentage points
+22,PLQY,Temperature,Temperature,155.3,2.106011,percentage points
+22,PLQY,Molar Ratio,Molar ratio,436.5,0.241642,percentage points
+22,PLQY,H2SO4 Volume,H2SO4 amount,3.84,-0.276595,percentage points
+23,PLQY,Time,Time,10.78,0.212942,percentage points
+23,PLQY,Temperature,Temperature,153.2,1.25288,percentage points
+23,PLQY,Molar Ratio,Molar ratio,473.9,-0.399598,percentage points
+23,PLQY,H2SO4 Volume,H2SO4 amount,3.99,-0.200697,percentage points
+24,PLQY,Time,Time,10.93,0.110308,percentage points
+24,PLQY,Temperature,Temperature,151.8,0.633994,percentage points
+24,PLQY,Molar Ratio,Molar ratio,305.1,2.612555,percentage points
+24,PLQY,H2SO4 Volume,H2SO4 amount,3.54,-0.828188,percentage points
+25,PLQY,Time,Time,11.78,0.06893,percentage points
+25,PLQY,Temperature,Temperature,154.8,1.922392,percentage points
+25,PLQY,Molar Ratio,Molar ratio,346.1,3.038409,percentage points
+25,PLQY,H2SO4 Volume,H2SO4 amount,3.77,-0.149022,percentage points
+26,PLQY,Time,Time,10.68,0.418221,percentage points
+26,PLQY,Temperature,Temperature,159.1,0.952705,percentage points
+26,PLQY,Molar Ratio,Molar ratio,268.4,3.85692,percentage points
+26,PLQY,H2SO4 Volume,H2SO4 amount,3.92,-0.131417,percentage points
+27,PLQY,Time,Time,8.79,0.385519,percentage points
+27,PLQY,Temperature,Temperature,155.1,2.002658,percentage points
+27,PLQY,Molar Ratio,Molar ratio,415.1,0.028145,percentage points
+27,PLQY,H2SO4 Volume,H2SO4 amount,2.29,-0.695654,percentage points
+28,PLQY,Time,Time,8.29,0.610429,percentage points
+28,PLQY,Temperature,Temperature,152.6,1.2114,percentage points
+28,PLQY,Molar Ratio,Molar ratio,466.6,-0.200185,percentage points
+28,PLQY,H2SO4 Volume,H2SO4 amount,2.69,-0.864016,percentage points
+29,PLQY,Time,Time,9.75,1.171829,percentage points
+29,PLQY,Temperature,Temperature,154.1,2.393012,percentage points
+29,PLQY,Molar Ratio,Molar ratio,272.1,4.705876,percentage points
+29,PLQY,H2SO4 Volume,H2SO4 amount,1.89,0.376752,percentage points
+30,PLQY,Time,Time,10.49,1.065822,percentage points
+30,PLQY,Temperature,Temperature,155.4,2.950297,percentage points
+30,PLQY,Molar Ratio,Molar ratio,368.1,4.431499,percentage points
+30,PLQY,H2SO4 Volume,H2SO4 amount,1.51,3.74127,percentage points
+31,PLQY,Time,Time,11.84,-0.882094,percentage points
+31,PLQY,Temperature,Temperature,156.1,0.72756,percentage points
+31,PLQY,Molar Ratio,Molar ratio,325.6,2.501889,percentage points
+31,PLQY,H2SO4 Volume,H2SO4 amount,1.82,-0.774706,percentage points
+32,PLQY,Time,Time,11.85,-0.703341,percentage points
+32,PLQY,Temperature,Temperature,155.9,1.198771,percentage points
+32,PLQY,Molar Ratio,Molar ratio,410.7,-0.117907,percentage points
+32,PLQY,H2SO4 Volume,H2SO4 amount,1.59,0.489266,percentage points
+33,PLQY,Time,Time,10.01,0.307476,percentage points
+33,PLQY,Temperature,Temperature,153.3,0.94341,percentage points
+33,PLQY,Molar Ratio,Molar ratio,293.9,3.00392,percentage points
+33,PLQY,H2SO4 Volume,H2SO4 amount,1.37,2.286103,percentage points
+34,PLQY,Time,Time,9.67,1.025865,percentage points
+34,PLQY,Temperature,Temperature,155.4,2.881555,percentage points
+34,PLQY,Molar Ratio,Molar ratio,374.5,4.233341,percentage points
+34,PLQY,H2SO4 Volume,H2SO4 amount,1.12,3.880428,percentage points
+35,PLQY,Time,Time,10.04,0.126142,percentage points
+35,PLQY,Temperature,Temperature,162.3,0.487032,percentage points
+35,PLQY,Molar Ratio,Molar ratio,476.6,-1.142824,percentage points
+35,PLQY,H2SO4 Volume,H2SO4 amount,1.02,2.072998,percentage points
+36,PLQY,Time,Time,8.36,0.805021,percentage points
+36,PLQY,Temperature,Temperature,155.7,2.183261,percentage points
+36,PLQY,Molar Ratio,Molar ratio,448.7,0.053919,percentage points
+36,PLQY,H2SO4 Volume,H2SO4 amount,1.03,3.150467,percentage points
+1,FWHM,Time,Time,10.0,-0.729671,nm
+1,FWHM,Temperature,Temperature,150.0,3.136356,nm
+1,FWHM,Molar Ratio,Molar ratio,400.0,0.082699,nm
+1,FWHM,H2SO4 Volume,H2SO4 amount,3.0,2.155671,nm
+2,FWHM,Time,Time,10.0,-1.127269,nm
+2,FWHM,Temperature,Temperature,150.0,3.769426,nm
+2,FWHM,Molar Ratio,Molar ratio,400.0,-0.403046,nm
+2,FWHM,H2SO4 Volume,H2SO4 amount,4.0,4.215944,nm
+3,FWHM,Time,Time,10.0,-1.211625,nm
+3,FWHM,Temperature,Temperature,150.0,2.425995,nm
+3,FWHM,Molar Ratio,Molar ratio,600.0,9.736032,nm
+3,FWHM,H2SO4 Volume,H2SO4 amount,3.0,1.578653,nm
+4,FWHM,Time,Time,10.0,-1.081602,nm
+4,FWHM,Temperature,Temperature,150.0,2.249889,nm
+4,FWHM,Molar Ratio,Molar ratio,600.0,11.061065,nm
+4,FWHM,H2SO4 Volume,H2SO4 amount,4.0,5.449704,nm
+5,FWHM,Time,Time,10.0,-0.265352,nm
+5,FWHM,Temperature,Temperature,170.0,3.371583,nm
+5,FWHM,Molar Ratio,Molar ratio,400.0,0.128787,nm
+5,FWHM,H2SO4 Volume,H2SO4 amount,3.0,3.222037,nm
+6,FWHM,Time,Time,10.0,-0.648588,nm
+6,FWHM,Temperature,Temperature,170.0,1.721644,nm
+6,FWHM,Molar Ratio,Molar ratio,400.0,-1.255301,nm
+6,FWHM,H2SO4 Volume,H2SO4 amount,4.0,2.999301,nm
+7,FWHM,Time,Time,10.0,-0.33263,nm
+7,FWHM,Temperature,Temperature,170.0,2.936111,nm
+7,FWHM,Molar Ratio,Molar ratio,600.0,10.057009,nm
+7,FWHM,H2SO4 Volume,H2SO4 amount,3.0,1.616565,nm
+8,FWHM,Time,Time,10.0,0.337616,nm
+8,FWHM,Temperature,Temperature,170.0,3.017042,nm
+8,FWHM,Molar Ratio,Molar ratio,600.0,13.023745,nm
+8,FWHM,H2SO4 Volume,H2SO4 amount,4.0,5.744653,nm
+9,FWHM,Time,Time,12.0,4.420125,nm
+9,FWHM,Temperature,Temperature,150.0,3.208171,nm
+9,FWHM,Molar Ratio,Molar ratio,400.0,-0.173171,nm
+9,FWHM,H2SO4 Volume,H2SO4 amount,3.0,1.329931,nm
+10,FWHM,Time,Time,12.0,5.383898,nm
+10,FWHM,Temperature,Temperature,150.0,4.035944,nm
+10,FWHM,Molar Ratio,Molar ratio,400.0,-0.100361,nm
+10,FWHM,H2SO4 Volume,H2SO4 amount,4.0,4.751574,nm
+11,FWHM,Time,Time,12.0,5.504903,nm
+11,FWHM,Temperature,Temperature,150.0,3.061819,nm
+11,FWHM,Molar Ratio,Molar ratio,600.0,11.046894,nm
+11,FWHM,H2SO4 Volume,H2SO4 amount,3.0,1.61144,nm
+12,FWHM,Time,Time,12.0,5.391718,nm
+12,FWHM,Temperature,Temperature,150.0,3.486153,nm
+12,FWHM,Molar Ratio,Molar ratio,600.0,11.325903,nm
+12,FWHM,H2SO4 Volume,H2SO4 amount,4.0,5.239282,nm
+13,FWHM,Time,Time,12.0,3.675676,nm
+13,FWHM,Temperature,Temperature,170.0,2.23463,nm
+13,FWHM,Molar Ratio,Molar ratio,400.0,0.105556,nm
+13,FWHM,H2SO4 Volume,H2SO4 amount,3.0,2.417194,nm
+14,FWHM,Time,Time,12.0,4.304968,nm
+14,FWHM,Temperature,Temperature,170.0,0.430551,nm
+14,FWHM,Molar Ratio,Molar ratio,400.0,-0.303449,nm
+14,FWHM,H2SO4 Volume,H2SO4 amount,4.0,3.206986,nm
+15,FWHM,Time,Time,12.0,3.824403,nm
+15,FWHM,Temperature,Temperature,170.0,1.01244,nm
+15,FWHM,Molar Ratio,Molar ratio,600.0,10.249782,nm
+15,FWHM,H2SO4 Volume,H2SO4 amount,3.0,2.204431,nm
+16,FWHM,Time,Time,12.0,2.417097,nm
+16,FWHM,Temperature,Temperature,170.0,-0.140532,nm
+16,FWHM,Molar Ratio,Molar ratio,600.0,11.101523,nm
+16,FWHM,H2SO4 Volume,H2SO4 amount,4.0,4.254968,nm
+17,FWHM,Time,Time,10.91,-2.452699,nm
+17,FWHM,Temperature,Temperature,152.3,-0.180903,nm
+17,FWHM,Molar Ratio,Molar ratio,396.1,-1.781838,nm
+17,FWHM,H2SO4 Volume,H2SO4 amount,3.75,2.056495,nm
+18,FWHM,Time,Time,9.02,-0.484431,nm
+18,FWHM,Temperature,Temperature,150.3,2.224884,nm
+18,FWHM,Molar Ratio,Molar ratio,359.9,-4.377597,nm
+18,FWHM,H2SO4 Volume,H2SO4 amount,3.92,2.116199,nm
+19,FWHM,Time,Time,8.4,0.926236,nm
+19,FWHM,Temperature,Temperature,199.5,4.296616,nm
+19,FWHM,Molar Ratio,Molar ratio,250.2,-3.285523,nm
+19,FWHM,H2SO4 Volume,H2SO4 amount,1.69,-3.606273,nm
+20,FWHM,Time,Time,9.15,-1.323134,nm
+20,FWHM,Temperature,Temperature,196.4,1.446505,nm
+20,FWHM,Molar Ratio,Molar ratio,749.3,5.145079,nm
+20,FWHM,H2SO4 Volume,H2SO4 amount,2.53,-3.907394,nm
+21,FWHM,Time,Time,10.68,-2.534995,nm
+21,FWHM,Temperature,Temperature,153.9,-3.49231,nm
+21,FWHM,Molar Ratio,Molar ratio,350.2,-7.380551,nm
+21,FWHM,H2SO4 Volume,H2SO4 amount,3.97,2.038912,nm
+22,FWHM,Time,Time,10.41,-3.593653,nm
+22,FWHM,Temperature,Temperature,155.3,-3.835986,nm
+22,FWHM,Molar Ratio,Molar ratio,436.5,-4.528051,nm
+22,FWHM,H2SO4 Volume,H2SO4 amount,3.84,1.566745,nm
+23,FWHM,Time,Time,10.78,-2.471671,nm
+23,FWHM,Temperature,Temperature,153.2,-1.291569,nm
+23,FWHM,Molar Ratio,Molar ratio,473.9,-4.100319,nm
+23,FWHM,H2SO4 Volume,H2SO4 amount,3.99,2.876616,nm
+24,FWHM,Time,Time,10.93,-2.427968,nm
+24,FWHM,Temperature,Temperature,151.8,-0.668644,nm
+24,FWHM,Molar Ratio,Molar ratio,305.1,-7.136097,nm
+24,FWHM,H2SO4 Volume,H2SO4 amount,3.54,1.287764,nm
+25,FWHM,Time,Time,11.78,-0.959787,nm
+25,FWHM,Temperature,Temperature,154.8,-4.302528,nm
+25,FWHM,Molar Ratio,Molar ratio,346.1,-8.972944,nm
+25,FWHM,H2SO4 Volume,H2SO4 amount,3.77,0.610315,nm
+26,FWHM,Time,Time,10.68,-2.219431,nm
+26,FWHM,Temperature,Temperature,159.1,-2.524644,nm
+26,FWHM,Molar Ratio,Molar ratio,268.4,-6.800597,nm
+26,FWHM,H2SO4 Volume,H2SO4 amount,3.92,2.345727,nm
+27,FWHM,Time,Time,8.79,-1.236417,nm
+27,FWHM,Temperature,Temperature,155.1,-3.877935,nm
+27,FWHM,Molar Ratio,Molar ratio,415.1,-2.936926,nm
+27,FWHM,H2SO4 Volume,H2SO4 amount,2.29,-5.553667,nm
+28,FWHM,Time,Time,8.29,-1.055926,nm
+28,FWHM,Temperature,Temperature,152.6,-0.965046,nm
+28,FWHM,Molar Ratio,Molar ratio,466.6,-3.190148,nm
+28,FWHM,H2SO4 Volume,H2SO4 amount,2.69,-1.187824,nm
+29,FWHM,Time,Time,9.75,-2.311926,nm
+29,FWHM,Temperature,Temperature,154.1,-4.835796,nm
+29,FWHM,Molar Ratio,Molar ratio,272.1,-7.479278,nm
+29,FWHM,H2SO4 Volume,H2SO4 amount,1.89,-6.541944,nm
+30,FWHM,Time,Time,10.49,-4.135866,nm
+30,FWHM,Temperature,Temperature,155.4,-4.232755,nm
+30,FWHM,Molar Ratio,Molar ratio,368.1,-5.155356,nm
+30,FWHM,H2SO4 Volume,H2SO4 amount,1.51,-7.830968,nm
+31,FWHM,Time,Time,11.84,0.621528,nm
+31,FWHM,Temperature,Temperature,156.1,-2.735972,nm
+31,FWHM,Molar Ratio,Molar ratio,325.6,-6.118593,nm
+31,FWHM,H2SO4 Volume,H2SO4 amount,1.82,-4.303907,nm
+32,FWHM,Time,Time,11.85,0.872319,nm
+32,FWHM,Temperature,Temperature,155.9,-2.626495,nm
+32,FWHM,Molar Ratio,Molar ratio,410.7,-2.522199,nm
+32,FWHM,H2SO4 Volume,H2SO4 amount,1.59,-6.674569,nm
+33,FWHM,Time,Time,10.01,-2.517144,nm
+33,FWHM,Temperature,Temperature,153.3,-2.831838,nm
+33,FWHM,Molar Ratio,Molar ratio,293.9,-5.978236,nm
+33,FWHM,H2SO4 Volume,H2SO4 amount,1.37,-6.659727,nm
+34,FWHM,Time,Time,9.67,1.126375,nm
+34,FWHM,Temperature,Temperature,155.4,-2.699236,nm
+34,FWHM,Molar Ratio,Molar ratio,374.5,-0.314384,nm
+34,FWHM,H2SO4 Volume,H2SO4 amount,1.12,-4.631699,nm
+35,FWHM,Time,Time,10.04,-2.385037,nm
+35,FWHM,Temperature,Temperature,162.3,-3.31713,nm
+35,FWHM,Molar Ratio,Molar ratio,476.6,-4.126037,nm
+35,FWHM,H2SO4 Volume,H2SO4 amount,1.02,-8.308741,nm
+36,FWHM,Time,Time,8.36,-1.300042,nm
+36,FWHM,Temperature,Temperature,155.7,-3.50644,nm
+36,FWHM,Molar Ratio,Molar ratio,448.7,-4.644069,nm
+36,FWHM,H2SO4 Volume,H2SO4 amount,1.03,-7.690394,nm
