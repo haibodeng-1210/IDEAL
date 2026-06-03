@@ -1,0 +1,9 @@
+﻿target,feature,pearson_r,spearman_r,target_unit,abs_pearson_r,abs_spearman_r
+FWHM,Molar Ratio,0.545661,0.494072,nm,0.545661,0.494072
+FWHM,H2SO4 Volume,0.498532,0.525543,nm,0.498532,0.525543
+FWHM,Time,0.319311,0.302868,nm,0.319311,0.302868
+FWHM,Temperature,0.150359,-0.073227,nm,0.150359,0.073227
+PLQY,Molar Ratio,-0.482868,-0.494565,percentage points,0.482868,0.494565
+PLQY,Temperature,-0.346194,-0.261808,percentage points,0.346194,0.261808
+PLQY,H2SO4 Volume,-0.32282,-0.276511,percentage points,0.32282,0.276511
+PLQY,Time,-0.202724,-0.205334,percentage points,0.202724,0.205334
