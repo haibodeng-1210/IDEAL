@@ -1,0 +1,5 @@
+mode,setting,target,initial_length_scales,optimizer,n_restarts_optimizer,n_samples,RMSE,MAE,R2,unit
+optimized_hyperparameters,chemistry_informed,FWHM,"[1.0, 1.0, 0.5, 0.5]",enabled,10,36,13.021984363741346,9.531722335648764,0.25687394458713075,nm
+optimized_hyperparameters,chemistry_informed,PLQY,"[1.0, 1.0, 0.5, 0.5]",enabled,10,36,6.373736719386019,4.898228902270882,0.057237224333758996,percentage points
+optimized_hyperparameters,uniform,FWHM,"[1.0, 1.0, 1.0, 1.0]",enabled,10,36,13.02198372003125,9.531723150687856,0.2568740180563839,nm
+optimized_hyperparameters,uniform,PLQY,"[1.0, 1.0, 1.0, 1.0]",enabled,10,36,6.373740063059088,4.898228091337912,0.05723623518360421,percentage points

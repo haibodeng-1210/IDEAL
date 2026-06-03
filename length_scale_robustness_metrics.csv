@@ -1,0 +1,9 @@
+mode,setting,target,initial_length_scales,optimizer,n_restarts_optimizer,n_samples,RMSE,MAE,R2
+optimized_hyperparameters,chemistry_informed,FWHM,"[1.0, 1.0, 0.5, 0.5]",enabled,10,36,13.021984363741346,9.531722335648764,0.25687394458713075
+optimized_hyperparameters,chemistry_informed,PLQY,"[1.0, 1.0, 0.5, 0.5]",enabled,10,36,0.0637373671938602,0.04898228902270881,0.057237224333758996
+optimized_hyperparameters,uniform,FWHM,"[1.0, 1.0, 1.0, 1.0]",enabled,10,36,13.02198372003125,9.531723150687856,0.2568740180563839
+optimized_hyperparameters,uniform,PLQY,"[1.0, 1.0, 1.0, 1.0]",enabled,10,36,0.06373740063059088,0.04898228091337912,0.05723623518360421
+no_optimizer_diagnostic,chemistry_informed,FWHM,"[1.0, 1.0, 0.5, 0.5]",disabled,0,36,13.079327114020808,10.599637027324285,0.2503147729145554
+no_optimizer_diagnostic,chemistry_informed,PLQY,"[1.0, 1.0, 0.5, 0.5]",disabled,0,36,0.0535104549325308,0.041166599996110054,0.3355053743693126
+no_optimizer_diagnostic,uniform,FWHM,"[1.0, 1.0, 1.0, 1.0]",disabled,0,36,13.529479685952674,10.701987871944608,0.1978227529001103
+no_optimizer_diagnostic,uniform,PLQY,"[1.0, 1.0, 1.0, 1.0]",disabled,0,36,0.05278575206739925,0.04191439330969379,0.3533822629061033
